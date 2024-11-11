@@ -1,0 +1,1097 @@
+[
+	{
+		"ticker_id": "MEME_USDT",
+		"base": "MEME",
+		"target": "USDT"
+	},
+	{
+		"ticker_id": "LBR_USDT",
+		"base": "LBR",
+		"target": "USDT"
+	},
+	{
+		"ticker_id": "FDUSD_USDT",
+		"base": "FDUSD",
+		"target": "USDT"
+	},
+	{
+		"ticker_id": "DOGE_USDT",
+		"base": "DOGE",
+		"target": "USDT"
+	},
+	{
+		"ticker_id": "MOCA_USDT",
+		"base": "MOCA",
+		"target": "USDT"
+	},
+	{
+		"ticker_id": "KNG_USDT",
+		"base": "KNG",
+		"target": "USDT"
+	},
+	{
+		"ticker_id": "NAKA_USDT",
+		"base": "NAKA",
+		"target": "USDT"
+	},
+	{
+		"ticker_id": "ELIX_USDT",
+		"base": "ELIX",
+		"target": "USDT"
+	},
+	{
+		"ticker_id": "TRX_USDT",
+		"base": "TRX",
+		"target": "USDT"
+	},
+	{
+		"ticker_id": "DAI_USDT",
+		"base": "DAI",
+		"target": "USDT"
+	},
+	{
+		"ticker_id": "BWAX_COMB",
+		"base": "BWAX",
+		"target": "COMB"
+	},
+	{
+		"ticker_id": "NMR_USDT",
+		"base": "NMR",
+		"target": "USDT"
+	},
+	{
+		"ticker_id": "CATA_USDT",
+		"base": "CATA",
+		"target": "USDT"
+	},
+	{
+		"ticker_id": "SOL_PLN",
+		"base": "SOL",
+		"target": "PLN"
+	},
+	{
+		"ticker_id": "NEAR_USDT",
+		"base": "NEAR",
+		"target": "USDT"
+	},
+	{
+		"ticker_id": "DAO_USDT",
+		"base": "DAO",
+		"target": "USDT"
+	},
+	{
+		"ticker_id": "SOCAP_USDT",
+		"base": "SOCAP",
+		"target": "USDT"
+	},
+	{
+		"ticker_id": "USDT_UAHG",
+		"base": "USDT",
+		"target": "UAHG"
+	},
+	{
+		"ticker_id": "AVAX_USDT",
+		"base": "AVAX",
+		"target": "USDT"
+	},
+	{
+		"ticker_id": "DANCE_USDT",
+		"base": "DANCE",
+		"target": "USDT"
+	},
+	{
+		"ticker_id": "SOL_USDT",
+		"base": "SOL",
+		"target": "USDT"
+	},
+	{
+		"ticker_id": "JTO_USDT",
+		"base": "JTO",
+		"target": "USDT"
+	},
+	{
+		"ticker_id": "DANCE_PLN",
+		"base": "DANCE",
+		"target": "PLN"
+	},
+	{
+		"ticker_id": "VELO_USDT",
+		"base": "VELO",
+		"target": "USDT"
+	},
+	{
+		"ticker_id": "USDT_USDC",
+		"base": "USDT",
+		"target": "USDC"
+	},
+	{
+		"ticker_id": "MT_USDT",
+		"base": "MT",
+		"target": "USDT"
+	},
+	{
+		"ticker_id": "OP_USDT",
+		"base": "OP",
+		"target": "USDT"
+	},
+	{
+		"ticker_id": "BWAX_PLN",
+		"base": "BWAX",
+		"target": "PLN"
+	},
+	{
+		"ticker_id": "IO_USDT",
+		"base": "IO",
+		"target": "USDT"
+	},
+	{
+		"ticker_id": "DOME_USDT",
+		"base": "DOME",
+		"target": "USDT"
+	},
+	{
+		"ticker_id": "BIGTIME_USDT",
+		"base": "BIGTIME",
+		"target": "USDT"
+	},
+	{
+		"ticker_id": "DANCE_EUR",
+		"base": "DANCE",
+		"target": "EUR"
+	},
+	{
+		"ticker_id": "ARTY_USDT",
+		"base": "ARTY",
+		"target": "USDT"
+	},
+	{
+		"ticker_id": "USDT_EUR",
+		"base": "USDT",
+		"target": "EUR"
+	},
+	{
+		"ticker_id": "LINK_PLN",
+		"base": "LINK",
+		"target": "PLN"
+	},
+	{
+		"ticker_id": "TRB_USDT",
+		"base": "TRB",
+		"target": "USDT"
+	},
+	{
+		"ticker_id": "USDT_PLN",
+		"base": "USDT",
+		"target": "PLN"
+	},
+	{
+		"ticker_id": "BTEC_USDT",
+		"base": "BTEC",
+		"target": "USDT"
+	},
+	{
+		"ticker_id": "PEPE_PLN",
+		"base": "PEPE",
+		"target": "PLN"
+	},
+	{
+		"ticker_id": "CGPT_USDT",
+		"base": "CGPT",
+		"target": "USDT"
+	},
+	{
+		"ticker_id": "BAT_USDT",
+		"base": "BAT",
+		"target": "USDT"
+	},
+	{
+		"ticker_id": "CHZ_USDT",
+		"base": "CHZ",
+		"target": "USDT"
+	},
+	{
+		"ticker_id": "HERO_PLN",
+		"base": "HERO",
+		"target": "PLN"
+	},
+	{
+		"ticker_id": "SHIB_PLN",
+		"base": "SHIB",
+		"target": "PLN"
+	},
+	{
+		"ticker_id": "GFT_USDT",
+		"base": "GFT",
+		"target": "USDT"
+	},
+	{
+		"ticker_id": "CRV_USDT",
+		"base": "CRV",
+		"target": "USDT"
+	},
+	{
+		"ticker_id": "BTC_USDC",
+		"base": "BTC",
+		"target": "USDC"
+	},
+	{
+		"ticker_id": "SHIB_USDT",
+		"base": "SHIB",
+		"target": "USDT"
+	},
+	{
+		"ticker_id": "KNG_PLN",
+		"base": "KNG",
+		"target": "PLN"
+	},
+	{
+		"ticker_id": "KESH_KNG",
+		"base": "KESH",
+		"target": "KNG"
+	},
+	{
+		"ticker_id": "DOT_USDT",
+		"base": "DOT",
+		"target": "USDT"
+	},
+	{
+		"ticker_id": "CATA_PLN",
+		"base": "CATA",
+		"target": "PLN"
+	},
+	{
+		"ticker_id": "CPT_USDT",
+		"base": "CPT",
+		"target": "USDT"
+	},
+	{
+		"ticker_id": "MMPRO_USDT",
+		"base": "MMPRO",
+		"target": "USDT"
+	},
+	{
+		"ticker_id": "HERO_USDT",
+		"base": "HERO",
+		"target": "USDT"
+	},
+	{
+		"ticker_id": "LHINU_USDT",
+		"base": "LHINU",
+		"target": "USDT"
+	},
+	{
+		"ticker_id": "SELECT_USDT",
+		"base": "SELECT",
+		"target": "USDT"
+	},
+	{
+		"ticker_id": "ETC_USDT",
+		"base": "ETC",
+		"target": "USDT"
+	},
+	{
+		"ticker_id": "ETC_PLN",
+		"base": "ETC",
+		"target": "PLN"
+	},
+	{
+		"ticker_id": "MFT_USDT",
+		"base": "MFT",
+		"target": "USDT"
+	},
+	{
+		"ticker_id": "USD_PLN",
+		"base": "USD",
+		"target": "PLN"
+	},
+	{
+		"ticker_id": "FAME_PLN",
+		"base": "FAME",
+		"target": "PLN"
+	},
+	{
+		"ticker_id": "DASH_USDT",
+		"base": "DASH",
+		"target": "USDT"
+	},
+	{
+		"ticker_id": "USDT_AED",
+		"base": "USDT",
+		"target": "AED"
+	},
+	{
+		"ticker_id": "RVC_USDT",
+		"base": "RVC",
+		"target": "USDT"
+	},
+	{
+		"ticker_id": "UNI_USDT",
+		"base": "UNI",
+		"target": "USDT"
+	},
+	{
+		"ticker_id": "kPLK_PLN",
+		"base": "kPLK",
+		"target": "PLN"
+	},
+	{
+		"ticker_id": "JKCOIN_PLN",
+		"base": "JKCOIN",
+		"target": "PLN"
+	},
+	{
+		"ticker_id": "TRYV_USDT",
+		"base": "TRYV",
+		"target": "USDT"
+	},
+	{
+		"ticker_id": "G4G_USDT",
+		"base": "G4G",
+		"target": "USDT"
+	},
+	{
+		"ticker_id": "BNB_USDT",
+		"base": "BNB",
+		"target": "USDT"
+	},
+	{
+		"ticker_id": "VELODROME_USDT",
+		"base": "VELODROME",
+		"target": "USDT"
+	},
+	{
+		"ticker_id": "SUSHI_USDT",
+		"base": "SUSHI",
+		"target": "USDT"
+	},
+	{
+		"ticker_id": "PAYB_USDT",
+		"base": "PAYB",
+		"target": "USDT"
+	},
+	{
+		"ticker_id": "BONK_USDT",
+		"base": "BONK",
+		"target": "USDT"
+	},
+	{
+		"ticker_id": "VELA_USDT",
+		"base": "VELA",
+		"target": "USDT"
+	},
+	{
+		"ticker_id": "BEAM_USDT",
+		"base": "BEAM",
+		"target": "USDT"
+	},
+	{
+		"ticker_id": "INJ_USDT",
+		"base": "INJ",
+		"target": "USDT"
+	},
+	{
+		"ticker_id": "BRETT_USDT",
+		"base": "BRETT",
+		"target": "USDT"
+	},
+	{
+		"ticker_id": "KOM_USDT",
+		"base": "KOM",
+		"target": "USDT"
+	},
+	{
+		"ticker_id": "USDT_GBP",
+		"base": "USDT",
+		"target": "GBP"
+	},
+	{
+		"ticker_id": "LEASH_USDT",
+		"base": "LEASH",
+		"target": "USDT"
+	},
+	{
+		"ticker_id": "CREO_USDT",
+		"base": "CREO",
+		"target": "USDT"
+	},
+	{
+		"ticker_id": "MJC_USDT",
+		"base": "MJC",
+		"target": "USDT"
+	},
+	{
+		"ticker_id": "COMB_PLN",
+		"base": "COMB",
+		"target": "PLN"
+	},
+	{
+		"ticker_id": "DOME_PLN",
+		"base": "DOME",
+		"target": "PLN"
+	},
+	{
+		"ticker_id": "FAME_USDT",
+		"base": "FAME",
+		"target": "USDT"
+	},
+	{
+		"ticker_id": "APIS_PLN",
+		"base": "APIS",
+		"target": "PLN"
+	},
+	{
+		"ticker_id": "PWT_USDT",
+		"base": "PWT",
+		"target": "USDT"
+	},
+	{
+		"ticker_id": "GRT_USDT",
+		"base": "GRT",
+		"target": "USDT"
+	},
+	{
+		"ticker_id": "GALA_USDT",
+		"base": "GALA",
+		"target": "USDT"
+	},
+	{
+		"ticker_id": "BONE_USDT",
+		"base": "BONE",
+		"target": "USDT"
+	},
+	{
+		"ticker_id": "BTCV_BTC",
+		"base": "BTCV",
+		"target": "BTC"
+	},
+	{
+		"ticker_id": "CXT_USDT",
+		"base": "CXT",
+		"target": "USDT"
+	},
+	{
+		"ticker_id": "ALGO_PLN",
+		"base": "ALGO",
+		"target": "PLN"
+	},
+	{
+		"ticker_id": "ALGO_AED",
+		"base": "ALGO",
+		"target": "AED"
+	},
+	{
+		"ticker_id": "ALGO_USDT",
+		"base": "ALGO",
+		"target": "USDT"
+	},
+	{
+		"ticker_id": "UTED_USDT",
+		"base": "UTED",
+		"target": "USDT"
+	},
+	{
+		"ticker_id": "JOE_USDT",
+		"base": "JOE",
+		"target": "USDT"
+	},
+	{
+		"ticker_id": "DESU_USDT",
+		"base": "DESU",
+		"target": "USDT"
+	},
+	{
+		"ticker_id": "BNB_PLN",
+		"base": "BNB",
+		"target": "PLN"
+	},
+	{
+		"ticker_id": "MKR_USDT",
+		"base": "MKR",
+		"target": "USDT"
+	},
+	{
+		"ticker_id": "LTC_PLN",
+		"base": "LTC",
+		"target": "PLN"
+	},
+	{
+		"ticker_id": "AXS_USDT",
+		"base": "AXS",
+		"target": "USDT"
+	},
+	{
+		"ticker_id": "QNT_USDT",
+		"base": "QNT",
+		"target": "USDT"
+	},
+	{
+		"ticker_id": "BLOK_USDT",
+		"base": "BLOK",
+		"target": "USDT"
+	},
+	{
+		"ticker_id": "SNX_USDT",
+		"base": "SNX",
+		"target": "USDT"
+	},
+	{
+		"ticker_id": "APE_USDT",
+		"base": "APE",
+		"target": "USDT"
+	},
+	{
+		"ticker_id": "MANA_USDT",
+		"base": "MANA",
+		"target": "USDT"
+	},
+	{
+		"ticker_id": "DOGE_PLN",
+		"base": "DOGE",
+		"target": "PLN"
+	},
+	{
+		"ticker_id": "CEEK_USDT",
+		"base": "CEEK",
+		"target": "USDT"
+	},
+	{
+		"ticker_id": "LON_USDT",
+		"base": "LON",
+		"target": "USDT"
+	},
+	{
+		"ticker_id": "SWEAT_USDT",
+		"base": "SWEAT",
+		"target": "USDT"
+	},
+	{
+		"ticker_id": "SLP_USDT",
+		"base": "SLP",
+		"target": "USDT"
+	},
+	{
+		"ticker_id": "VRA_USDT",
+		"base": "VRA",
+		"target": "USDT"
+	},
+	{
+		"ticker_id": "W_USDT",
+		"base": "W",
+		"target": "USDT"
+	},
+	{
+		"ticker_id": "BE_USDT",
+		"base": "BE",
+		"target": "USDT"
+	},
+	{
+		"ticker_id": "BTC_PLN",
+		"base": "BTC",
+		"target": "PLN"
+	},
+	{
+		"ticker_id": "ZRO_USDT",
+		"base": "ZRO",
+		"target": "USDT"
+	},
+	{
+		"ticker_id": "XTZ_USDT",
+		"base": "XTZ",
+		"target": "USDT"
+	},
+	{
+		"ticker_id": "SUI_PLN",
+		"base": "SUI",
+		"target": "PLN"
+	},
+	{
+		"ticker_id": "IMX_USDT",
+		"base": "IMX",
+		"target": "USDT"
+	},
+	{
+		"ticker_id": "RENDER_USDT",
+		"base": "RENDER",
+		"target": "USDT"
+	},
+	{
+		"ticker_id": "GODS_USDT",
+		"base": "GODS",
+		"target": "USDT"
+	},
+	{
+		"ticker_id": "HERB_USDT",
+		"base": "HERB",
+		"target": "USDT"
+	},
+	{
+		"ticker_id": "GOAL_USDT",
+		"base": "GOAL",
+		"target": "USDT"
+	},
+	{
+		"ticker_id": "BLUR_USDT",
+		"base": "BLUR",
+		"target": "USDT"
+	},
+	{
+		"ticker_id": "LDO_USDT",
+		"base": "LDO",
+		"target": "USDT"
+	},
+	{
+		"ticker_id": "WLD_USDT",
+		"base": "WLD",
+		"target": "USDT"
+	},
+	{
+		"ticker_id": "BAND_USDT",
+		"base": "BAND",
+		"target": "USDT"
+	},
+	{
+		"ticker_id": "IGU_USDT",
+		"base": "IGU",
+		"target": "USDT"
+	},
+	{
+		"ticker_id": "DYDX_USDT",
+		"base": "DYDX",
+		"target": "USDT"
+	},
+	{
+		"ticker_id": "ARB_USDT",
+		"base": "ARB",
+		"target": "USDT"
+	},
+	{
+		"ticker_id": "LRC_USDT",
+		"base": "LRC",
+		"target": "USDT"
+	},
+	{
+		"ticker_id": "1INCH_USDT",
+		"base": "1INCH",
+		"target": "USDT"
+	},
+	{
+		"ticker_id": "YGG_USDT",
+		"base": "YGG",
+		"target": "USDT"
+	},
+	{
+		"ticker_id": "USDC_PLN",
+		"base": "USDC",
+		"target": "PLN"
+	},
+	{
+		"ticker_id": "RDNT_USDT",
+		"base": "RDNT",
+		"target": "USDT"
+	},
+	{
+		"ticker_id": "ARB_PLN",
+		"base": "ARB",
+		"target": "PLN"
+	},
+	{
+		"ticker_id": "REN_USDT",
+		"base": "REN",
+		"target": "USDT"
+	},
+	{
+		"ticker_id": "XONE_USDT",
+		"base": "XONE",
+		"target": "USDT"
+	},
+	{
+		"ticker_id": "GMX_USDT",
+		"base": "GMX",
+		"target": "USDT"
+	},
+	{
+		"ticker_id": "CELR_USDT",
+		"base": "CELR",
+		"target": "USDT"
+	},
+	{
+		"ticker_id": "SAND_USDT",
+		"base": "SAND",
+		"target": "USDT"
+	},
+	{
+		"ticker_id": "LOOKS_USDT",
+		"base": "LOOKS",
+		"target": "USDT"
+	},
+	{
+		"ticker_id": "PLSX_USDT",
+		"base": "PLSX",
+		"target": "USDT"
+	},
+	{
+		"ticker_id": "HEX_USDT",
+		"base": "HEX",
+		"target": "USDT"
+	},
+	{
+		"ticker_id": "EHEX_USDT",
+		"base": "EHEX",
+		"target": "USDT"
+	},
+	{
+		"ticker_id": "DEP_USDT",
+		"base": "DEP",
+		"target": "USDT"
+	},
+	{
+		"ticker_id": "RACA_USDT",
+		"base": "RACA",
+		"target": "USDT"
+	},
+	{
+		"ticker_id": "10SET_PLN",
+		"base": "10SET",
+		"target": "PLN"
+	},
+	{
+		"ticker_id": "PLS_PLN",
+		"base": "PLS",
+		"target": "PLN"
+	},
+	{
+		"ticker_id": "PLS_USDT",
+		"base": "PLS",
+		"target": "USDT"
+	},
+	{
+		"ticker_id": "LTC_EUR",
+		"base": "LTC",
+		"target": "EUR"
+	},
+	{
+		"ticker_id": "10SET_USDT",
+		"base": "10SET",
+		"target": "USDT"
+	},
+	{
+		"ticker_id": "INC_USDT",
+		"base": "INC",
+		"target": "USDT"
+	},
+	{
+		"ticker_id": "AGLD_USDT",
+		"base": "AGLD",
+		"target": "USDT"
+	},
+	{
+		"ticker_id": "OP_PLN",
+		"base": "OP",
+		"target": "PLN"
+	},
+	{
+		"ticker_id": "AAVE_USDT",
+		"base": "AAVE",
+		"target": "USDT"
+	},
+	{
+		"ticker_id": "PEPE_USDT",
+		"base": "PEPE",
+		"target": "USDT"
+	},
+	{
+		"ticker_id": "LTC_USDT",
+		"base": "LTC",
+		"target": "USDT"
+	},
+	{
+		"ticker_id": "VMPX_USDT",
+		"base": "VMPX",
+		"target": "USDT"
+	},
+	{
+		"ticker_id": "MXEN_XEN",
+		"base": "MXEN",
+		"target": "XEN"
+	},
+	{
+		"ticker_id": "ILV_USDT",
+		"base": "ILV",
+		"target": "USDT"
+	},
+	{
+		"ticker_id": "USDT_USD",
+		"base": "USDT",
+		"target": "USD"
+	},
+	{
+		"ticker_id": "LPT_USDT",
+		"base": "LPT",
+		"target": "USDT"
+	},
+	{
+		"ticker_id": "MASK_USDT",
+		"base": "MASK",
+		"target": "USDT"
+	},
+	{
+		"ticker_id": "PYTH_USDT",
+		"base": "PYTH",
+		"target": "USDT"
+	},
+	{
+		"ticker_id": "KETH_ETH",
+		"base": "KETH",
+		"target": "ETH"
+	},
+	{
+		"ticker_id": "JASMY_USDT",
+		"base": "JASMY",
+		"target": "USDT"
+	},
+	{
+		"ticker_id": "ETHW_USDT",
+		"base": "ETHW",
+		"target": "USDT"
+	},
+	{
+		"ticker_id": "PRCL_USDT",
+		"base": "PRCL",
+		"target": "USDT"
+	},
+	{
+		"ticker_id": "USDCe_USDC",
+		"base": "USDCe",
+		"target": "USDC"
+	},
+	{
+		"ticker_id": "XEN_USDT",
+		"base": "XEN",
+		"target": "USDT"
+	},
+	{
+		"ticker_id": "ACE_USDT",
+		"base": "ACE",
+		"target": "USDT"
+	},
+	{
+		"ticker_id": "LINK_USDT",
+		"base": "LINK",
+		"target": "USDT"
+	},
+	{
+		"ticker_id": "JUP_USDT",
+		"base": "JUP",
+		"target": "USDT"
+	},
+	{
+		"ticker_id": "PINU_PLS",
+		"base": "PINU",
+		"target": "PLS"
+	},
+	{
+		"ticker_id": "BTC_USD",
+		"base": "BTC",
+		"target": "USD"
+	},
+	{
+		"ticker_id": "ICP_USDT",
+		"base": "ICP",
+		"target": "USDT"
+	},
+	{
+		"ticker_id": "BTC_EUR",
+		"base": "BTC",
+		"target": "EUR"
+	},
+	{
+		"ticker_id": "TON_USDT",
+		"base": "TON",
+		"target": "USDT"
+	},
+	{
+		"ticker_id": "KC_USDT",
+		"base": "KC",
+		"target": "USDT"
+	},
+	{
+		"ticker_id": "RAY_USDT",
+		"base": "RAY",
+		"target": "USDT"
+	},
+	{
+		"ticker_id": "FLOKI_USDT",
+		"base": "FLOKI",
+		"target": "USDT"
+	},
+	{
+		"ticker_id": "SHRAP_USDT",
+		"base": "SHRAP",
+		"target": "USDT"
+	},
+	{
+		"ticker_id": "ONDO_USDT",
+		"base": "ONDO",
+		"target": "USDT"
+	},
+	{
+		"ticker_id": "CAKE_USDT",
+		"base": "CAKE",
+		"target": "USDT"
+	},
+	{
+		"ticker_id": "YFII_USDT",
+		"base": "YFII",
+		"target": "USDT"
+	},
+	{
+		"ticker_id": "WIF_USDT",
+		"base": "WIF",
+		"target": "USDT"
+	},
+	{
+		"ticker_id": "KNC_USDT",
+		"base": "KNC",
+		"target": "USDT"
+	},
+	{
+		"ticker_id": "OMG_USDT",
+		"base": "OMG",
+		"target": "USDT"
+	},
+	{
+		"ticker_id": "DODO_USDT",
+		"base": "DODO",
+		"target": "USDT"
+	},
+	{
+		"ticker_id": "BTC_USDT",
+		"base": "BTC",
+		"target": "USDT"
+	},
+	{
+		"ticker_id": "MEW_USDT",
+		"base": "MEW",
+		"target": "USDT"
+	},
+	{
+		"ticker_id": "MNT_USDT",
+		"base": "MNT",
+		"target": "USDT"
+	},
+	{
+		"ticker_id": "MAVIA_USDT",
+		"base": "MAVIA",
+		"target": "USDT"
+	},
+	{
+		"ticker_id": "DOGS_USDT",
+		"base": "DOGS",
+		"target": "USDT"
+	},
+	{
+		"ticker_id": "FIL_USDT",
+		"base": "FIL",
+		"target": "USDT"
+	},
+	{
+		"ticker_id": "ENJ_USDT",
+		"base": "ENJ",
+		"target": "USDT"
+	},
+	{
+		"ticker_id": "MYRIA_USDT",
+		"base": "MYRIA",
+		"target": "USDT"
+	},
+	{
+		"ticker_id": "TYT_USDT",
+		"base": "TYT",
+		"target": "USDT"
+	},
+	{
+		"ticker_id": "SUI_USDT",
+		"base": "SUI",
+		"target": "USDT"
+	},
+	{
+		"ticker_id": "PRIME_USDT",
+		"base": "PRIME",
+		"target": "USDT"
+	},
+	{
+		"ticker_id": "ADA_PLN",
+		"base": "ADA",
+		"target": "PLN"
+	},
+	{
+		"ticker_id": "BES_USDT",
+		"base": "BES",
+		"target": "USDT"
+	},
+	{
+		"ticker_id": "POL_USDT",
+		"base": "POL",
+		"target": "USDT"
+	},
+	{
+		"ticker_id": "POL_PLN",
+		"base": "POL",
+		"target": "PLN"
+	},
+	{
+		"ticker_id": "NOT_USDT",
+		"base": "NOT",
+		"target": "USDT"
+	},
+	{
+		"ticker_id": "FET_USDT",
+		"base": "FET",
+		"target": "USDT"
+	},
+	{
+		"ticker_id": "ETH_BTC",
+		"base": "ETH",
+		"target": "BTC"
+	},
+	{
+		"ticker_id": "ETH_PLN",
+		"base": "ETH",
+		"target": "PLN"
+	},
+	{
+		"ticker_id": "WBTC_BTC",
+		"base": "WBTC",
+		"target": "BTC"
+	},
+	{
+		"ticker_id": "KSM_USDT",
+		"base": "KSM",
+		"target": "USDT"
+	},
+	{
+		"ticker_id": "POL_ETH",
+		"base": "POL",
+		"target": "ETH"
+	},
+	{
+		"ticker_id": "ETH_EUR",
+		"base": "ETH",
+		"target": "EUR"
+	},
+	{
+		"ticker_id": "ETH_USDC",
+		"base": "ETH",
+		"target": "USDC"
+	},
+	{
+		"ticker_id": "ETH_USDT",
+		"base": "ETH",
+		"target": "USDT"
+	},
+	{
+		"ticker_id": "ADA_USDT",
+		"base": "ADA",
+		"target": "USDT"
+	}
+]

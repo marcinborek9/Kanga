@@ -1,0 +1,7 @@
+.table-row-container {
+    cursor: pointer;
+}
+
+.table-row-container:hover {
+    background-color: #f9f9f9;
+}

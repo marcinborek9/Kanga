@@ -1,0 +1,427 @@
+{
+	"timestamp": "2024-11-11T15:21:57.319992618Z",
+	"bids": [
+		{
+			"quantity": "29.41",
+			"price": "0.85"
+		},
+		{
+			"quantity": "33.33",
+			"price": "0.75"
+		},
+		{
+			"quantity": "10",
+			"price": "0.5"
+		},
+		{
+			"quantity": "400",
+			"price": "0.44"
+		},
+		{
+			"quantity": "1",
+			"price": "0.21"
+		},
+		{
+			"quantity": "40",
+			"price": "0.151"
+		},
+		{
+			"quantity": "100",
+			"price": "0.04"
+		},
+		{
+			"quantity": "21329.42",
+			"price": "0.035"
+		},
+		{
+			"quantity": "350",
+			"price": "0.02"
+		},
+		{
+			"quantity": "1047.66",
+			"price": "0.003"
+		},
+		{
+			"quantity": "3000",
+			"price": "0.002"
+		},
+		{
+			"quantity": "40000",
+			"price": "0.001"
+		}
+	],
+	"asks": [
+		{
+			"quantity": "11.21",
+			"price": "500"
+		},
+		{
+			"quantity": "1",
+			"price": "124"
+		},
+		{
+			"quantity": "17.94",
+			"price": "90"
+		},
+		{
+			"quantity": "64.92",
+			"price": "23"
+		},
+		{
+			"quantity": "74.49",
+			"price": "21"
+		},
+		{
+			"quantity": "147.84372",
+			"price": "20.99"
+		},
+		{
+			"quantity": "281.71648948",
+			"price": "20"
+		},
+		{
+			"quantity": "1.51",
+			"price": "19.99"
+		},
+		{
+			"quantity": "1.12",
+			"price": "19.5"
+		},
+		{
+			"quantity": "20",
+			"price": "19"
+		},
+		{
+			"quantity": "18.01",
+			"price": "18.45"
+		},
+		{
+			"quantity": "100",
+			"price": "18"
+		},
+		{
+			"quantity": "10",
+			"price": "17.98"
+		},
+		{
+			"quantity": "6.65",
+			"price": "17.68"
+		},
+		{
+			"quantity": "200",
+			"price": "17.59"
+		},
+		{
+			"quantity": "104.05",
+			"price": "17.5"
+		},
+		{
+			"quantity": "110",
+			"price": "17"
+		},
+		{
+			"quantity": "3.76",
+			"price": "16.6"
+		},
+		{
+			"quantity": "100",
+			"price": "16.5"
+		},
+		{
+			"quantity": "52.41",
+			"price": "16.36"
+		},
+		{
+			"quantity": "81.41988882",
+			"price": "16.34"
+		},
+		{
+			"quantity": "89.94653722",
+			"price": "15.98"
+		},
+		{
+			"quantity": "9.54",
+			"price": "15.73"
+		},
+		{
+			"quantity": "4.93",
+			"price": "15"
+		},
+		{
+			"quantity": "18.32",
+			"price": "14.98"
+		},
+		{
+			"quantity": "15.99",
+			"price": "14.43"
+		},
+		{
+			"quantity": "60.97",
+			"price": "14.39"
+		},
+		{
+			"quantity": "6.76",
+			"price": "14.07"
+		},
+		{
+			"quantity": "250",
+			"price": "14"
+		},
+		{
+			"quantity": "10",
+			"price": "13.99"
+		},
+		{
+			"quantity": "10.96",
+			"price": "13.94"
+		},
+		{
+			"quantity": "55",
+			"price": "13.53"
+		},
+		{
+			"quantity": "11.01",
+			"price": "13.48"
+		},
+		{
+			"quantity": "11.21",
+			"price": "12.99"
+		},
+		{
+			"quantity": "15",
+			"price": "12.6"
+		},
+		{
+			"quantity": "68.63",
+			"price": "12.58"
+		},
+		{
+			"quantity": "74.33",
+			"price": "12.55"
+		},
+		{
+			"quantity": "19.86",
+			"price": "12.54"
+		},
+		{
+			"quantity": "45.1795",
+			"price": "12"
+		},
+		{
+			"quantity": "37",
+			"price": "11.76"
+		},
+		{
+			"quantity": "36.15",
+			"price": "11.75"
+		},
+		{
+			"quantity": "88.81",
+			"price": "11.32"
+		},
+		{
+			"quantity": "138.26",
+			"price": "11.3"
+		},
+		{
+			"quantity": "37.6",
+			"price": "11.27"
+		},
+		{
+			"quantity": "3.45",
+			"price": "11"
+		},
+		{
+			"quantity": "14.75449111",
+			"price": "10"
+		},
+		{
+			"quantity": "5.84",
+			"price": "9.92"
+		},
+		{
+			"quantity": "44.27",
+			"price": "9.9"
+		},
+		{
+			"quantity": "11876.7",
+			"price": "9.88"
+		},
+		{
+			"quantity": "4.99",
+			"price": "9.29"
+		},
+		{
+			"quantity": "87.4",
+			"price": "9"
+		},
+		{
+			"quantity": "8.08",
+			"price": "8.59"
+		},
+		{
+			"quantity": "2",
+			"price": "8"
+		},
+		{
+			"quantity": "4.35",
+			"price": "7.99"
+		},
+		{
+			"quantity": "147.84",
+			"price": "7.5"
+		},
+		{
+			"quantity": "9.99",
+			"price": "6.85"
+		},
+		{
+			"quantity": "99.80476",
+			"price": "6.34"
+		},
+		{
+			"quantity": "27.2",
+			"price": "6.33"
+		},
+		{
+			"quantity": "24.41357702",
+			"price": "6.31"
+		},
+		{
+			"quantity": "129.74",
+			"price": "6.04"
+		},
+		{
+			"quantity": "200",
+			"price": "6"
+		},
+		{
+			"quantity": "478.7189379",
+			"price": "5.99"
+		},
+		{
+			"quantity": "2.37",
+			"price": "5.98"
+		},
+		{
+			"quantity": "39.110054",
+			"price": "5.94"
+		},
+		{
+			"quantity": "5.13986645",
+			"price": "5.4"
+		},
+		{
+			"quantity": "107",
+			"price": "5.1"
+		},
+		{
+			"quantity": "9.98",
+			"price": "5.06"
+		},
+		{
+			"quantity": "4.2",
+			"price": "5.045"
+		},
+		{
+			"quantity": "9.98",
+			"price": "4.98"
+		},
+		{
+			"quantity": "9.96",
+			"price": "4.94"
+		},
+		{
+			"quantity": "10",
+			"price": "4.3"
+		},
+		{
+			"quantity": "23.9",
+			"price": "4.28"
+		},
+		{
+			"quantity": "54.88999999",
+			"price": "4.24"
+		},
+		{
+			"quantity": "3.99",
+			"price": "4.2"
+		},
+		{
+			"quantity": "19.96",
+			"price": "4.14"
+		},
+		{
+			"quantity": "10",
+			"price": "4.1"
+		},
+		{
+			"quantity": "49.6",
+			"price": "4.08"
+		},
+		{
+			"quantity": "5.97037479",
+			"price": "4"
+		},
+		{
+			"quantity": "9",
+			"price": "3.9"
+		},
+		{
+			"quantity": "10",
+			"price": "3.7"
+		},
+		{
+			"quantity": "100.73",
+			"price": "3.5"
+		},
+		{
+			"quantity": "49.9",
+			"price": "3.4"
+		},
+		{
+			"quantity": "39.9",
+			"price": "3.14"
+		},
+		{
+			"quantity": "4.98",
+			"price": "2.64"
+		},
+		{
+			"quantity": "39.99",
+			"price": "2.632"
+		},
+		{
+			"quantity": "29.96",
+			"price": "2.628"
+		},
+		{
+			"quantity": "10",
+			"price": "2.5"
+		},
+		{
+			"quantity": "19.97",
+			"price": "2.4"
+		},
+		{
+			"quantity": "10.9",
+			"price": "2.35"
+		},
+		{
+			"quantity": "28.8",
+			"price": "2.24"
+		},
+		{
+			"quantity": "9.99",
+			"price": "2"
+		},
+		{
+			"quantity": "218.75408987",
+			"price": "1.997"
+		},
+		{
+			"quantity": "19.96",
+			"price": "1.1"
+		}
+	]
+}

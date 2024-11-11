@@ -1,0 +1,11 @@
+.table-container {
+    margin-top: 20px;
+}
+
+.market-table-loader {
+    height: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+}
